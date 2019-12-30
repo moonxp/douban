@@ -1,5 +1,8 @@
 <template>
-  <div>首页</div>
+  <div>
+    <span>豆瓣</span>
+    <button size="mini">打开豆瓣App</button>
+  </div>
 </template>
 
 <script>
